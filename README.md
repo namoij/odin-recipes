@@ -1,2 +1,1 @@
-Grabbed sweet-potato-pic.jpg from the link below
-https://pixabay.com/images/search/mashed%20sweet%20potato/
+This project is to demonstrate my knowledge of basic html tags and elements.

@@ -1,0 +1,45 @@
+html {
+    box-sizing: border-box;
+    font-family: 'Courier New', Helvetica, sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+    color:rgb(0, 0, 0);
+    background-color:rgb(171, 137, 216);
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    height: 250px;
+    display: block;
+    margin: auto;
+    border-radius: 15px;
+}
+
+.list-container {
+    list-style-position: inside;
+    text-align: center;
+}
+
+#home {
+    display: block;
+    text-align: center;
+}
+
+.ice-cream {
+    box-sizing: border-box;
+    margin: 8px 90px; 
+    padding: 30px;
+    border: 16px solid rgb(182, 182, 182);
+    text-align: center;
+    font-weight: bold;
+}
